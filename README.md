@@ -1,7 +1,3 @@
-Here’s a cleaned-up version of your content:
-
----
-
 # MoBaCrypt
 
 ## Overview
